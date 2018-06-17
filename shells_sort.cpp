@@ -35,7 +35,7 @@ void shells_sort(int* a, int n)
 		{
 			break;
 		}
-	}
+	} 
 }
 
 
